@@ -26,7 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go     8 mins          ███████████████░░░░░░░░░░   59.94 %
+TOML   5 mins          ██████████░░░░░░░░░░░░░░░   40.06 %
 ```
 
 <!--END_SECTION:waka-->
