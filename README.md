@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       1 min           ███████████████████▓░░░░░   78.24 %
-Markdown   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-TSConfig   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
