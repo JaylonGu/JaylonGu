@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           55 mins               ██████████▓░░░░░░░░░░░░░░   42.86 %
-Markdown     45 mins               ████████▓░░░░░░░░░░░░░░░░   34.95 %
-JSON         15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Git Config   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
