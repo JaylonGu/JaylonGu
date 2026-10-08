@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   6 mins                ███████░░░░░░░░░░░░░░░░░░   27.95 %
-Markdown   6 mins                ███████░░░░░░░░░░░░░░░░░░   27.45 %
-C          6 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-Text       4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-Bash       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
